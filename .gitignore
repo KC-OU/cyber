@@ -1,0 +1,5 @@
+output/**/*.7z
+output/*-*-Exam-Report.pdf
+.vscode
+cyber/learning/THM/.ou
+cyber/learning/HTB/.ou
